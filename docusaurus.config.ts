@@ -8,10 +8,11 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   future: { v4: true },
-  url: 'https://docs.alertsify.com',
-  baseUrl: '/',
-  organizationName: 'flowgeniusmz',
-  projectName: 'alertsify-docs',
+  url: 'https://dhaneshraok.github.io',
+  baseUrl: '/Alertsify_docs-/',
+  organizationName: 'dhaneshraok',
+  projectName: 'Alertsify_docs-',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
