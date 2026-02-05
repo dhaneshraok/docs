@@ -9,9 +9,9 @@ const config: Config = {
 
   future: { v4: true },
   url: 'https://dhaneshraok.github.io',
-  baseUrl: '/Alertsify_docs-/',
+  baseUrl: '/docs/',
   organizationName: 'dhaneshraok',
-  projectName: 'Alertsify_docs-',
+  projectName: 'docs',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

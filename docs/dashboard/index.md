@@ -115,12 +115,12 @@ graph TB
 
 | Section | Description |
 |---------|-------------|
-| [Architecture](./architecture) | System design and data flow |
-| [Data Models](./data-models) | TypeScript types and database schemas |
-| [Database Views](./database-views) | SQL views for analytics calculations |
-| [API Endpoints](./api-endpoints) | REST API reference |
-| [Components](./components) | UI component architecture |
-| [Hooks & State](./hooks-state) | React hooks and state management |
+| [Architecture](/dashboard/architecture) | System design and data flow |
+| [Data Models](/dashboard/data-models) | TypeScript types and database schemas |
+| [Database Views](/dashboard/database-views) | SQL views for analytics calculations |
+| [API Endpoints](/dashboard/api-endpoints) | REST API reference |
+| [Components](/dashboard/components) | UI component architecture |
+| [Hooks & State](/dashboard/hooks-state) | React hooks and state management |
 
 ## Technology Stack
 

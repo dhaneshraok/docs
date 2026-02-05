@@ -507,4 +507,4 @@ for (const subscriber of subscribers) {
 
 - [Copy Trading Flow](/flows/copy-trading) — How subscriptions work
 - [Order Sync Flow](/flows/order-sync) — Monitoring pending orders
-- [P&L Calculations](/flows/pnl-calculations) — Advanced P&L scenarios
+- [BTO Execution](/flows/bto-execution) — Buy to open flow

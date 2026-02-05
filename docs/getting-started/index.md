@@ -132,9 +132,9 @@ flowchart LR
 ### 🚀 Getting Started
 | Guide | Description |
 |-------|-------------|
-| [Installation](./installation) | Set up your local development environment |
-| [Project Structure](./project-structure) | Understand the folder layout and conventions |
-| [Tech Stack](./tech-stack) | Overview of all technologies used |
+| [Installation](/getting-started/installation) | Set up your local development environment |
+| [Project Structure](/getting-started/project-structure) | Understand the folder layout and conventions |
+| [Tech Stack](/getting-started/tech-stack) | Overview of all technologies used |
 
 ### 🏗️ Architecture Deep-Dives
 | Section | Description |
