@@ -8,8 +8,8 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   future: { v4: true },
-  url: 'https://dhaneshraok.github.io',
-  baseUrl: '/docs/',
+  url: 'https://alertsify-docs.onrender.com',
+  baseUrl: '/',
   organizationName: 'dhaneshraok',
   projectName: 'docs',
   trailingSlash: false,
